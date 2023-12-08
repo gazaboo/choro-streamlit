@@ -1,4 +1,4 @@
 streamlit
 rapidfuzz
 youtube__search
-st_keyup
+streamlit-keyup
