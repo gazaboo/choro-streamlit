@@ -31,7 +31,7 @@ def get_youtube_videos(title, author):
 
 def search_bar():
     data = get_choro_data_simple_name()
-    query = st_keyup('Search here')
+    query = st_keyup("Search here")
     if query != '':
         ranking = rapidfuzz.process.extract(
             query, data, scorer=partial_ratio, limit=None)
