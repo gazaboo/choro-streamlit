@@ -1,6 +1,5 @@
 import streamlit as st
 import streamlit.components.v1 as components
-from streamlit_searchbox import st_searchbox
 from utils import get_choro_data, get_youtube_videos, search_bar
 
 st.set_page_config(
