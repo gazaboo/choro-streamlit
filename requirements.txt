@@ -2,3 +2,4 @@ streamlit
 rapidfuzz
 youtube__search
 streamlit-keyup
+streamlit-extras
